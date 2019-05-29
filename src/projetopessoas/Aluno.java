@@ -5,7 +5,7 @@ public class Aluno extends Pessoa {
     private int mat;
     private String curso;
     
-    public void cancelarMatri(){
+    public void cancelarMatr(){
         System.out.println("A Matrícula Será Cancelada");
         
     }
